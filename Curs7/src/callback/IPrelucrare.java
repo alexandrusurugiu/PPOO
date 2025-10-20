@@ -1,0 +1,14 @@
+package callback;
+
+public interface IPrelucrare {
+
+    int suma(int[] v);
+
+    int produs (int[] v);
+
+    int minim (int[] v);
+
+    int maxim (int[] v);
+
+    float medie(int[] v);
+}
