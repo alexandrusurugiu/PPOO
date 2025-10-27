@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Mon Oct 27 19:07:34 EET 2025:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-019a-26a3-b3ae-00000f208a58 
-on database directory C:\Users\surug\ExempluDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5a07e868 
+Mon Oct 27 19:15:24 EET 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-019a-26aa-deba-00000f208a58 
+on database directory C:\Users\surug\ExempluDB2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5a07e868 
 Loaded from file:/C:/Users/surug/Downloads/drivers/derby.jar
 java.vendor=BellSoft
 java.runtime.version=23.0.2+9
